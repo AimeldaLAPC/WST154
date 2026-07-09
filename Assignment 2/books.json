@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "genre": "Fiction",
+        "description": "An aging nobleman becomes obsessed with chivalric tales and sets out on a series of comical adventures, blurring the line between fantasy and reality.",
+        "image": "https://www.candlesbook.com/wp-content/uploads/book-cover-art-print-don-quixote-g-franz-staltgart-verlag-von-f-loewe-book-cover.jpg"
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "genre": "Fiction",
+        "description": "Set during the Napoleonic Wars, this epic novel follows several Russian families as they navigate love, loss, war, and personal growth.",
+        "image": "https://wizdomapp.com/wp-content/uploads/2024/01/War-And-Peace.jpg"
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "genre": "Poetry",
+        "description": "The hero Odysseus embarks on a perilous journey home after the Trojan War, encountering monsters, gods, and countless obstacles.",
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781451674187/the-odyssey-9781451674187_hr.jpg"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "description": "Elizabeth Bennet and Mr. Darcy overcome misunderstandings, pride, and social expectations in one of literature's most beloved love stories.",
+        "image": "https://m.media-amazon.com/images/I/71CvWDPcVEL._SL1500_.jpg"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Fiction",
+        "description": "In a totalitarian society where every action is monitored, Winston Smith struggles to preserve truth, freedom, and individuality.",
+        "image": "https://www.designer-daily.com/wp-content/uploads/2017/02/1984-book-covers-5.jpg"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "description": "Through the eyes of young Scout Finch, the novel explores racial injustice, morality, and compassion in the American South.",
+        "image": "https://mll8qfl6uqi6.i.optimole.com/w:auto/h:auto/q:mauto/ig:avif/id:3f4b1ebe1425fc70dfa9b3ff2f2580b2/https://kanonbookshop.com/97800620664660-scan-scaled.jpg"
+    }
+]
